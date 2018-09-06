@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67da6732-f5c0-4cdc-a6c4-881119b31a44" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" afterPath="$PROJECT_DIR$/target/jacoco.exec" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/FooTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/FooTest.txt" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-FooTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-FooTest.xml" />
-    </list>
+    <list default="true" id="67da6732-f5c0-4cdc-a6c4-881119b31a44" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
