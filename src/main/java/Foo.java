@@ -4,6 +4,7 @@ public class Foo {
     }
 
     public static int calc2(int a, int b) {
+        System.out.println();
         return 99 * a + b;
     }
 }
